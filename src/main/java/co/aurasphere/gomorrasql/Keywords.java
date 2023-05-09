@@ -20,7 +20,7 @@ public class Keywords {
 	public final static String[] ASTERISK_KEYWORDS = { "tutto", "chillo", "ch'era", "'o", "nuostro" };
 	public final static String WHERE_KEYWORD = "arò";
 	public final static String[] BEGIN_TRANSACTION_KEYWORDS = { "ua", "uagliò" };
-	public final static String[] COMMIT_KEYWORDS = { "iamme", "bello", "ia'" };
+	public final static String[] COMMIT_KEYWORDS = { "jamm", "bell", "ja'" };
 	public final static String ROLLBACK_KEYWORD = "sfaccimm";
 	public final static String AND_KEYWORD = "e";
 	public final static String OR_KEYWORD = "o";

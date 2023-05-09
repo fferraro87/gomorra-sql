@@ -119,7 +119,7 @@ Follows a table that roughly maps GomorraSQL language to standard SQL:
 | <=                             | <=             | ANY WHERE CLAUSE       |
 | >=                             | >=             | ANY WHERE CLAUSE       |
 | sfaccimm                       | ROLLBACK       | TRANSACTION            |
-| iamme bello ia'                | COMMIT         | TRANSACTION            |
+| jamm bell ja'                  | COMMIT         | TRANSACTION            |
 | ua uagliò                      | BEGIN TRANSACTION | TRANSACTION         |
 
 ## Supported Database

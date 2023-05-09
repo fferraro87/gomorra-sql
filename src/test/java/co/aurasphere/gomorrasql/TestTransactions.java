@@ -63,7 +63,7 @@ public class TestTransactions {
 		}
 		Assert.assertEquals(expectedCount, 2);
 
-		gsi.execute("iamme bello ia'");
+		gsi.execute("jamm bell ja'");
 		result = gsi.execute("ripigliammo tutto chillo ch'era 'o nuostro mmiez 'a city arò city_id = 6");
 		resultSet = result.getResultSet();
 		expectedCount = 1;
